@@ -17,7 +17,7 @@ avatar: https://avatars1.githubusercontent.com/u/8026622
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: vikramaditya91@gmail.com
   facebook:
   flickr:
   github: vikramaditya91
@@ -26,7 +26,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   #twitter: vikramaditya91
-  stackoverflow: /users/2542835/vikramaditya-gaonkar # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: /users/2542835/vikramaditya-gaonkar 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
