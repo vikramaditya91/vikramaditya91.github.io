@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: default
+published: true
 ---
 {% for post in site.posts %}
 <li>
