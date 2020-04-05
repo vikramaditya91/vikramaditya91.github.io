@@ -4,20 +4,17 @@ title: Crypto Updates
 permalink: /crypto_update/
 ---
 
-This is a simple blog which identifies the most oversold coins in the Binance market.
-The basic idea is:
-1. Identify the oversold coin
-2. Put a sell-order for 5% increase of the coin value
-3. If the coin does not reach the target, sell it at whatever it's current value is
-<div class="posts">
-  {% for post in site.categories.crypto %}
-    	<article class="post">
-      		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      	<div class="entry">
-        	{{ post.excerpt }}
-      	</div>
-      		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    	</article>
-  {% endfor %}
-</div>
+
+<img src="{{site.baseurl}}/images/jekyll-logo.png">
+
+Updated at <>
+
+
+<b>You start the challenge with 10 ETH. The objective is to maximize the ETH by making any number of trades.</b>
+
+1. The vigilant_crypto bot spits out the coins with the highest potential.
+2. If unutilized ETH is available, buy the potential coins at market value and set a sell-order for 5% profits.
+3. If the coin does not reach the sell-target within 20 days, sell the coin at market price.
+
+<a href="{{ site.baseurl }}/crypto_history">Coin Update History</a>
 
