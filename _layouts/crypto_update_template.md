@@ -8,7 +8,7 @@ in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
 
-Last updated on: {{last_updated_on}}
+Last updated on: {{last_updated_on}} 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
 	<tbody>
 	<tr>
@@ -26,6 +26,10 @@ Last updated on: {{last_updated_on}}
 	<tr>
 		<td>Change in last month</td>
 		<td>{{change_last_month}}</td>
+	</tr>
+    <tr>
+		<td>Predicted ETH holding on<br>31 Dec 2020</td>
+		<td>{{predicted_value_end_of_year}}</td>
 	</tr>
 	</tbody>
 </table>
