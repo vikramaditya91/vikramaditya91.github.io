@@ -8,28 +8,28 @@ in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
 
-Last updated on: 04/13/2020, 15:39:56
+Last updated on: {{last_updated_on}}
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
 	<tbody>
 	<tr>
 		<td>Current ETH holding</td>
-		<td>       11.86</td>
+		<td>{{current_eth_holding}}</td>
 	</tr>
 	<tr>
 		<td>Overall change of ETH</td>
-		<td><font color="green">+18.59%</font></td>
+		<td>{{overall_eth_percent}}</td>
 	</tr>
 	<tr>
 		<td>Change in last week</td>
-		<td><font color="green">+2.98%</font></td>
+		<td>{{change_last_week}}</td>
 	</tr>
 	<tr>
 		<td>Change in last month</td>
-		<td><font color="red">-0.88%</font></td>
+		<td>{{change_last_month}}</td>
 	</tr>
 	</tbody>
 </table>
-<a href="{{ site.baseurl }}/crypto_history">Coin Update History</a>
+<a href="{{ '{{' }} site.baseurl {{ '}}' }}/crypto_history">Coin Update History</a>
 
 <br>
 <br>
