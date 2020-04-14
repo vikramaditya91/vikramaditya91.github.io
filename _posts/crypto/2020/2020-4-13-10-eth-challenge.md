@@ -1,22 +1,20 @@
 ---
 layout: post
-title: Update on 14 Jan
+title: Update on 13 Apr 
 category: crypto
+date: 2009-04-13 10:08:39 +02:00
 ---
 
 
-Out of all the Binance coins, the following are highly oversold.
-{}
+The following coins have a good potential to give you a potential to take-off in the coming few days:
 
-We choose {} for today because it seems to have the best potential.
+###Summary of the 10 ETH Challenge
 
-Current price:
-Sell-order at:  
-If the sell-order is not achieved by {}, sell it whatever price it is available.
 
 | Coin ticker    | ETH | ETH | ETH | ETH | ETH | ETH | ETH | ETH | ETH | ETH |
-|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | Predicted on   | 1    |  1   |1     |  1   |1     |   1  | 1    |   1  | 1    |    1 |
 | Sell target    |  1   | 1    | 1    | 1    | 1    |  1   |  1   |  1   |   1  |     1|
 | Sell latest by |   1  |1     |  1   |1     |  1   | 1    |   1  | 1    |  1   |     1|
 
+Posted on: 04/13/2020, 23:45:22 CEST
