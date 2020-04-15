@@ -34,7 +34,8 @@ Last updated on: {{last_updated_on}}
 	</tbody>
 </table>
 <a href="{{ '{{' }} site.baseurl {{ '}}' }}/crypto_history">Coin Update History</a>
-
+<br>
+Follow live tweets [here](https://twitter.com/vigilantcrypto1)
 <br>
 <br>
 Disclaimer:

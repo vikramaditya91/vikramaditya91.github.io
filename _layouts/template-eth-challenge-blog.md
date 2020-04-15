@@ -2,6 +2,7 @@
 layout: post
 title: Update on {{title_date}}
 category: crypto
+date: {{date_time_format_yaml}}
 ---
 
 {{changes_in_coins_held}}
@@ -37,3 +38,7 @@ General stats from the ETH challenge:
 	</tbody>
 </table>
 
+<br>
+Follow live tweets [here](https://twitter.com/vigilantcrypto1)
+<br>
+<br>
