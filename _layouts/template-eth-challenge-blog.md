@@ -4,7 +4,15 @@ title: Update on {{title_date}}
 category: crypto
 date: {{date_time_format_yaml}}
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103831149-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-103831149-5');
+</script>
 {{changes_in_coins_held}}
 
 #### Current holdings from the ETH Challenge

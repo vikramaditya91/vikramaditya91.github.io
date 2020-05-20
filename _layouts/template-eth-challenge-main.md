@@ -3,6 +3,15 @@ layout: page
 title: Crypto Updates
 permalink: /crypto_update/
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103831149-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-103831149-5');
+</script>
 <br>In the simulation, you start with 10 ETH.<br>The objective is to maximize the ETH value by trading against altcoins 
 in Binance.
 
