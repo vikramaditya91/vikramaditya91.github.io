@@ -12,33 +12,33 @@ permalink: /crypto_update/
 
   gtag('config', 'UA-103831149-5');
 </script>
-In the simulation, I started with 10 ETH on 2-February-2019.<br>The objective is to maximize the ETH value by trading against altcoins 
+<br>In the simulation, I started with 10 ETH on 2-February-2019.<br>The objective is to maximize the ETH value by trading against altcoins 
 in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
 
-Last updated on: 05/30/2020, 22:24:53 CEST 
+Last updated on: 05/31/2020, 22:24:49 CEST 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
 	<tbody>
 	<tr>
 		<td>Current ETH holding</td>
-		<td>     12.80 ETH</td>
+		<td>     13.07 ETH</td>
 	</tr>
 	<tr>
 		<td>Overall change of ETH</td>
-		<td><font color="green">+28.03%</font></td>
+		<td><font color="green">+30.68%</font></td>
 	</tr>
 	<tr>
 		<td>Change in last week</td>
-		<td><font color="red">-0.22%</font></td>
+		<td><font color="green">+0.96%</font></td>
 	</tr>
 	<tr>
 		<td>Change in last month</td>
-		<td><font color="green">+23.75%</font></td>
+		<td><font color="green">+19.79%</font></td>
 	</tr>
     <tr>
 		<td>Predicted ETH holding on<br>31 Dec 2020</td>
-		<td>     15.05 ETH</td>
+		<td>     15.45 ETH</td>
 	</tr>
 	</tbody>
 </table>
