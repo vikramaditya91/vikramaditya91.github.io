@@ -12,7 +12,7 @@ permalink: /crypto_update/
 
   gtag('config', 'UA-103831149-5');
 </script>
-<br>In the simulation, you start with 10 ETH.<br>The objective is to maximize the ETH value by trading against altcoins 
+In the simulation, I started with 10 ETH on 2-February-2019.<br>The objective is to maximize the ETH value by trading against altcoins 
 in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
