@@ -17,28 +17,28 @@ in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
 
-Last updated on: 10/26/2020, 11:27:02 CET 
+Last updated on: 10/26/2020, 22:28:02 CET 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
 	<tbody>
 	<tr>
 		<td>Current ETH holding</td>
-		<td>     15.57 ETH</td>
+		<td>     15.65 ETH</td>
 	</tr>
 	<tr>
 		<td>Overall change of ETH</td>
-		<td><font color="green">+55.66%</font></td>
+		<td><font color="green">+56.52%</font></td>
 	</tr>
 	<tr>
 		<td>Change in last week</td>
-		<td><font color="red">-3.24%</font></td>
+		<td><font color="red">-3.11%</font></td>
 	</tr>
 	<tr>
 		<td>Change in last month</td>
-		<td><font color="green">+0.11%</font></td>
+		<td><font color="green">+1.71%</font></td>
 	</tr>
     <tr>
 		<td>Predicted ETH holding on<br>31 Dec 2020</td>
-		<td>     11.36 ETH</td>
+		<td>     11.37 ETH</td>
 	</tr>
 	</tbody>
 </table>
