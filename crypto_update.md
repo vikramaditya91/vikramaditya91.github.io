@@ -17,7 +17,7 @@ in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
 
-Last updated on: 11/13/2020, 21:54:16 CET 
+Last updated on: 11/13/2020, 22:25:05 CET 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
 	<tbody>
 	<tr>
@@ -30,11 +30,11 @@ Last updated on: 11/13/2020, 21:54:16 CET
 	</tr>
 	<tr>
 		<td>Change in last week</td>
-		<td><font color="red">-9.27%</font></td>
+		<td><font color="red">-9.26%</font></td>
 	</tr>
 	<tr>
 		<td>Change in last month</td>
-		<td><font color="red">-23.83%</font></td>
+		<td><font color="red">-23.74%</font></td>
 	</tr>
     <tr>
 		<td>Predicted ETH holding on<br>31 Dec 2020</td>
