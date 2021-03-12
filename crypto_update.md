@@ -17,7 +17,7 @@ in Binance.
 
 <iframe width="775" height="525" frameborder="0" scrolling="no" src="//plotly.com/~vikramaditya91/109.embed"></iframe>
 
-Last updated on: 03/12/2021, 13:06:03 CET 
+Last updated on: 03/12/2021, 13:45:21 CET 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
 	<tbody>
 	<tr>
@@ -26,7 +26,7 @@ Last updated on: 03/12/2021, 13:06:03 CET
 	</tr>
 	<tr>
 		<td>Overall change of ETH</td>
-		<td><font color="green">+201.27%</font></td>
+		<td><font color="green">+201.28%</font></td>
 	</tr>
 	<tr>
 		<td>Change in last week</td>
