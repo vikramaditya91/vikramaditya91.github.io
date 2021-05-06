@@ -1,0 +1,63 @@
+---
+layout: post
+title: Update on 06 May 2021
+category: crypto
+date: 2021-05-06 23:35:25 +0200
+---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103831149-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-103831149-5');
+</script>
+Sold: XLM, quantity:     10864.68, price:   0.00018683<br>Bought: WAVES, quantity:       202.45, price:   0.00999900<br>Sold: NEBL, quantity:      8541.74, price:   0.00103600<br>Bought: RLC, quantity:      6729.46, price:   0.00131500<br>
+
+#### Current holdings from the ETH Challenge
+
+The holding from the 10 ETH challenge as on: 05/06/2021, 23:35:24 CEST
+
+|Coin ticker|Quantity|Sell target<br>coin/ETH|Eqv ETH<br>value|Sell latest by|
+|-----------|--------|-----------|-----------|--------------|
+BNT|166.81|  0.00254100|0.36|20 May 2021|
+IOTA|1781.54|  0.00072343|1.16|23 May 2021|
+BQX|3057.81|  0.00160209|3.58|23 May 2021|
+FUN|190110.23|  0.00001687|2.48|10 May 2021|
+ZEN|112.99|  0.04142250|3.99|23 May 2021|
+WAVES|202.45|  0.01049895|2.02|26 May 2021|
+NCASH|1269073.2|  0.00000308|2.45|22 May 2021|
+RLC|6729.46|  0.00138075|8.85|26 May 2021|
+DENT|838356.09|  0.00000293|2.29|26 May 2021|
+
+<br>
+<br>
+<br>
+General stats from the ETH challenge:
+
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+	<tbody>
+	<tr>
+		<td>Current ETH holding</td>
+		<td>     27.15 ETH</td>
+	</tr>
+	<tr>
+		<td>Overall change of ETH</td>
+		<td><font color="green">+171.53%</font></td>
+	</tr>
+	<tr>
+		<td>Change in last week</td>
+		<td><font color="red">-6.72%</font></td>
+	</tr>
+	<tr>
+		<td>Change in last month</td>
+		<td><font color="red">-30.49%</font></td>
+	</tr>
+	</tbody>
+</table>
+
+<br>
+Follow live tweets [here](https://twitter.com/vigilantcrypto1)
+<br>
+<br>
